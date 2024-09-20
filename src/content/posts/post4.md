@@ -26,4 +26,6 @@ A continuación, se muestra algunos avances de las épicas e historias de usuari
 
 📸 Elaboración de las [Épicas](https://drive.google.com/file/d/1b7Wkk_oa_KVp2wG9B98_cOH69u3EZZBZ/view?usp=sharing)
 
-📸 Elaboración de las [Historias](https://drive.google.com/file/d/18TwIm6cRqaJoBknMVT-SP-1cgPDtOlON/view?usp=sharing)
+📸 Elaboración de las [Historias de usuario](https://drive.google.com/file/d/18TwIm6cRqaJoBknMVT-SP-1cgPDtOlON/view?usp=sharing)
+
+📚 Leer más información de [Épicas e Historias de usuario](https://drive.google.com/file/d/15KNadJ54EG1EIMHjFxcIphKOJemWNUdY/view?usp=sharing)
