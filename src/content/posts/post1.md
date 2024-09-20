@@ -34,7 +34,13 @@ Misión: *Promover una enseñanza creativa e innovadora que forme estudiantes ca
 
 Visión: *Ser una institución educativa líder, acreditada y certificada, con una formación integral de alto nivel académico que prepare a los estudiantes de Villa El Salvador para los retos del futuro como agentes de cambio, apoyados en tecnología actualizada y personal altamente calificado.*
 
-## *4. Análisis FODA*
+## *4. Reunión de la visión del proyecto*
+
+Se realizó una reunión con el director Josué Sayritupac Gutierrez (*Stakeholder*), Elias Samuel Talledo Vega (*Product Owner*) y Gerson Daniel Sahuma Jurado (*Scrum Master*) con el objetivo de discutir sobre los requerimientos de la institución y las expectativas de los stakeholders para desarrollar una declaración de la visión del proyecto.
+
+📚 Imágenes de la [Reunión de la visión del proyecto](https://drive.google.com/file/d/1hFUZSAsY7aDfzCL12v_p27Z3mGbZH4Uc/view?usp=sharing)
+
+## *5. Análisis FODA*
 
 En el contexto de nuestro proyecto para la digitalización del sistema de gestión de la biblioteca en la Institución Educativa 6070 Héroes del Alto Cenepa, el análisis FODA proporciona una visión clara de los factores críticos que debemos considerar. Al comprender las fortalezas y debilidades de la biblioteca actual, así como las oportunidades y amenazas del entorno educativo, podemos tomar decisiones informadas que maximicen los beneficios de nuestra propuesta.
 
@@ -57,37 +63,37 @@ En el contexto de nuestro proyecto para la digitalización del sistema de gesti�
 <li>Dependencia de la infraestructura tecnológica (internet, computadoras, escáneres).</li>
 <li>Posibles riesgos relacionados con la privacidad de los datos de los estudiantes.</li>
 
-## *5. Ánalisis de Brecha*
+## *6. Ánalisis de Brecha*
 
 El análisis revela que el colegio actualmente carece de un sistema digital que permita el registro automático de los préstamos y devoluciones de libros. Las tecnologías disponibles en el mercado pueden solucionar este problema al implementar un sistema que integre la digitalización de estos procesos, mejorando la eficiencia y la precisión.
 
-*4.1. Estado actual:*
+*6.1. Estado actual:*
 <li>Proceso manual de registro de préstamos y devoluciones de libros utilizando cuadernos físicos.</li>
 <li>Dificultad para realizar un seguimiento preciso de los libros prestados y devueltos.</li>
 <li>Retrasos en la gestión de los préstamos, especialmente al final del ciclo escolar.</li>
 <li>Errores humanos frecuentes en el registro.</li>
 <li>Limitaciones para acceder a información en tiempo real sobre el estado de los libros.</li>
 
-*4.2. Estado deseado:*
+*6.2. Estado deseado:*
 <li>Sistema digital automatizado para el registro de préstamos y devoluciones.</li>
 <li>Seguimiento en tiempo real de los libros prestados.</li>
 <li>Catálogo digital de libros accesible para estudiantes y personal.</li>
 <li>Notificaciones automáticas para recordar devoluciones pendientes.</li>
 <li>Uso de tecnología de escaneo (QR o código de barras) para agilizar el registro.</li>
 
-*4.3. Brecha identificada:*
+*6.3. Brecha identificada:*
 <li>Tecnológica: Falta de infraestructura tecnológica (software y hardware) para digitalizar el proceso.</li>
 <li>Procesos: Procesos manuales ineficientes que generan errores y pérdida de tiempo.</li>
 <li>Capacidades del Personal: Personal no capacitado para usar herramientas tecnológicas avanzadas.</li>
 <li>Seguimiento y Control: Dificultad en realizar un seguimiento preciso de los préstamos y devoluciones en tiempo real.</li>
 
-## *6. Estimaciones de Tiempo, Esfuerzo y Costo*
+## *7. Reconociendo al Product Owner*
 
-<li>Tiempo: Se estima que el desarrollo e implementación del sistema tomará aproximadamente 3 meses.</li>
-<li>Esfuerzo: El equipo de desarrollo (1 product owner, 1 scrum master y 3 developers) trabajará en sprints de 2 semanas siguiendo la metodología SCRUM, con revisiones constantes y ajustes según los requisitos del usuario.</li>
-<li>Costo:</li>
+El Product Owner actúa como el enlace entre la comunidad de usuarios interesados y el Equipo Scrum, asegurándose de transmitir de manera clara los requisitos del producto o servicio que el negocio necesita. Este rol incluye definir los Criterios de Aceptación y verificar que se cumplan, representando siempre los intereses del cliente.
+En nuestro equipo, esta responsabilidad será asumida por Elías Samuel Talledo Vega, debido a su conexión directa con la dirección del colegio I.E. Héroes del Alto Cenepa 6070 y su compromiso con el cumplimiento de las tareas inherentes a este rol, garantizando una adecuada coordinación con las partes interesadas y el equipo de trabajo.
 
-## *7. Factores Externos*
+
+## *8. Factores Externos*
 
 <li>Regulaciones jurídicas: El sistema debe cumplir con la normativa vigente sobre la protección de datos de menores de edad y las normativas del Ministerio de Educación.</li>
 <li>Requisitos gubernamentales: El colegio debe asegurar que el sistema esté alineado con las políticas de digitalización promovidas por el gobierno.</li>
@@ -100,8 +106,8 @@ Algunas de las normativas y leyes que debemos considerar para la elaboración de
 <li>Consentimiento de Padres/Tutores: Establece un proceso claro para obtener el consentimiento informado de los padres o tutores antes de recopilar o procesar datos de estudiantes menores de edad.</li>
 <li>Ley de Gobierno Electrónico (Ley N.º 30053): Esta ley fomenta el uso de tecnologías de la información y la comunicación en el sector público y puede tener implicaciones para la digitalización en instituciones educativas. Asegúrate de que el sistema de gestión de biblioteca cumpla con los principios de accesibilidad, transparencia y eficiencia establecidos en esta ley.</li>
 
-## *8. Conclusión*
+## *9. Conclusión*
 
 El sistema de gestión de biblioteca propuesto representa una solución integral para optimizar los procesos de préstamos y devoluciones de libros en la Institución Educativa 6070 Héroes del Alto Cenepa. La digitalización del proceso reducirá errores, mejorará la experiencia de los usuarios y proporcionará un seguimiento más preciso del inventario de la biblioteca. A largo plazo, el proyecto permitirá la expansión hacia funciones más avanzadas que beneficiarán tanto a la institución como a los estudiantes.
 
-📚 Learn more about [client-side `<script>` tags in Astro components](/en/guides/client-side-scripts/)
+📚 Leer más información de la [Visión del Proyecto](https://docs.google.com/document/d/1r03JMZOiRFExHQaNhUXn5Pc1cFBqLtx17XvMUH8PXbI/edit?usp=sharing)
