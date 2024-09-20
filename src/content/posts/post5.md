@@ -19,7 +19,7 @@ El equipo está compuesto por un Product Owner (*Elías Samuel Talledo Vega*), u
 
 ## Épicas
 
-Las épicas de tu proyecto incluyen las funcionalidades clave del sistema:
+Las épicas del proyecto incluyen las funcionalidades clave del sistema:
 <li>Registro y seguimiento de préstamos y devoluciones en tiempo real.</li>
 <li>Catálogo digital de libros.</li>
 <li>Notificaciones automáticas para devoluciones.</li>
@@ -27,9 +27,9 @@ Las épicas de tu proyecto incluyen las funcionalidades clave del sistema:
 
 ## Personajes:
 
-Los personajes en el proyecto son:
+Algunos de los personajes en el proyecto son:
 <li>Bibliotecaria: Encargada de gestionar los préstamos y devoluciones.</li>
-<li>Estudiantes y personal educativo: Uusuarios del catálogo digital y del sistema de préstamos.</li>
+<li>Estudiantes y personal educativo: Usuarios del catálogo digital y del sistema de préstamos.</li>
 
 ## Declaración de la visión del proyecto
 
