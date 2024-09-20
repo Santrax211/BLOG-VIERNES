@@ -8,10 +8,18 @@ tags:
   - Inicio
   - Epicas
 pubDate: 2024-09-16
-cover: https://scontent.flim32-1.fna.fbcdn.net/v/t39.30808-6/460647256_1155236936225074_1593799286569363091_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFKkRHKFE8pU-7PKeeWqQCgv8yjJT6H1p6_zKMlPofWnsxjuBywEmUzm-kr_SL-MF8mf8YB1XqzOnzM0OA0RaXF&_nc_ohc=-dB5J2e5EE4Q7kNvgG3np16&_nc_ht=scontent.flim32-1.fna&_nc_gid=A9j_zQ0xaeXQYtjrB_9ng0E&oh=00_AYBl5UjCsLQp_bDr07lbkXgWetQzbuPPpAjOKVrB_8onzw&oe=66F35B0A
+cover: https://www.giovannycifuentes.com/wp-content/uploads/2019/05/slicing_historias_de_usuario.png
 coverAlt: AstroVerse-Aliases
 author: Alberto Mondragon
 ---
+
+## Reunión para la elaboración y planificación de las épicas
+En este proceso, la Declaración de la visión del proyecto (Project Vision Statement) sirve  como base para el desarrollo de épicas. 
+📚 Leer más información de la [Declaración de la Visión del Proyecto](https://drive.google.com/file/d/15KNadJ54EG1EIMHjFxcIphKOJemWNUdY/view?usp=sharing)
+
+Las reuniones de grupo de usuarios pueden llevarse a cabo para discutir la(las) épica(s) apropiada(s).
+
+📸 Imagen de [Reunión de trabajo](https://drive.google.com/file/d/16V_JGMJH_wc2NFuqfNiRTBxXfEAzbal6/view?usp=sharing)
 
 
 
