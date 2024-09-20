@@ -8,7 +8,7 @@ tags:
   - Inicio
   - Vision
 pubDate: 2024-09-14
-cover: https://images.unsplash.com/photo-1501471984908-815b996862f4?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+cover: https://scontent.flim32-1.fna.fbcdn.net/v/t39.30808-6/460737903_1155066792908755_3457455212007683308_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES_p_GR9pRWCc7WRHFIrsdsvPSSoKuYpOy89JKgq5ik6sPyXO8OCipLi93Jnzh9ZS0gvxYqP2mzvaufVwquHoC&_nc_ohc=7UUiReEALIYQ7kNvgG2hQkL&_nc_ht=scontent.flim32-1.fna&_nc_gid=AyQRF-jK9N8fXMeXQ3hzl-q&oh=00_AYBwD8w9pe5NEZveWtZPgmMxGm1JJU7IkKsOrnDXNNA89A&oe=66F350CD
 coverAlt: AstroVerse-Aliases
 author: Samuel Talledo
 ---
