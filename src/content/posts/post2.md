@@ -1,136 +1,52 @@
 ---
-title: Project Structure
-slug: project-structure
-description: Learn how to structure a project with Astro.
+title: Scrum Master y los interesados del negocio
+slug: scrum-master-y-los-interesadps-del-negocio
+description: Identificación del Scrum Master y los interesados del negocio
 category:
   - One
 tags:
-  - Tailwind
-  - Astro
-  - File
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1501471984908-815b996862f4?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGJsYWNrfGVufDB8MHwwfHx8Mg%3D%3D
+  - Inicio
+  - Scrum Master
+pubDate: 2024-09-15
+cover: https://scontent.flim32-1.fna.fbcdn.net/v/t39.30808-6/460390541_1155066779575423_6997642675730158499_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjOgaCp-uJvjYNhKsujufIqPIfNxrLGzyo8h83GssbPNerr0B50fywWHz9SYoGENUWzTLaLvclc_lmLgkNvq70&_nc_ohc=lGk5u031WsIQ7kNvgHO8gHP&_nc_ht=scontent.flim32-1.fna&_nc_gid=ADTJ-Vy0iEXsoauRssqRGeW&oh=00_AYDBbOi2qESlCwfsSZ_R4s9ZVDkuOiMqR264moxNwVDJiQ&oe=66F350AD
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Gerson Sahuma
 ---
 
-Your new Astro project generated from the `create astro` CLI wizard already includes some files and folders. Others, you will create yourself and add to Astro's existing file structure.
+Ya se ha encontrado en el post anterior quien será nuestro *Product Owner* y cual es nuestra *Declaración de la Visión del Proyecto*
 
-Here's how an Astro project is organized, and some files you will find in your new project.
+## Product Owner
 
-## Directories and Files
+Elías Samuel Talledo Vega, responsable de representar los intereses del cliente (en este caso, la comunidad educativa del colegio I.E. Héroes del Alto Cenepa 6070) y de definir los requisitos del proyecto de digitalización de la biblioteca.
 
-Astro leverages an opinionated folder layout for your project. Every Astro project root should include the following directories and files:
+📸 Imagen de la [Votación para Product Owner](https://drive.google.com/file/d/1j_ZX0Lt6LrScnxVE08SPa5M-K1H20ecY/view?usp=sharing)
 
-- `src/*` - Your project source code (components, pages, styles, etc.)
-- `public/*` - Your non-code, unprocessed assets (fonts, icons, etc.)
-- `package.json` - A project manifest.
-- `astro.config.mjs` - An Astro configuration file. (recommended)
-- `tsconfig.json` - A TypeScript configuration file. (recommended)
+## Declaración de la Visión del Proyecto
 
-### Example Project Tree
+La digitalización del sistema de gestión de la biblioteca del colegio I.E. Héroes del Alto Cenepa 6070 busca modernizar y agilizar los procesos de préstamos, devoluciones y acceso al catálogo. Con esta solución, la comunidad educativa podrá acceder a la información de manera eficiente y en tiempo real, mejorando la experiencia de estudiantes y personal. Este proyecto no solo optimiza la administración de recursos, sino que sienta las bases para una transformación digital que impactará positivamente en el aprendizaje y gestión académica.
 
-A common Astro project directory might look like this:
+📚 Leer más información de la [Declaración de la Visión del Proyecto](https://drive.google.com/file/d/15KNadJ54EG1EIMHjFxcIphKOJemWNUdY/view?usp=sharing)
 
-<FileTree>
-- public/
-  - robots.txt
-  - favicon.svg
-  - social-image.png
-- src/
-  - components/
-    - Header.astro
-    - Button.jsx
-  - layouts/
-    - PostLayout.astro
-  - pages/
-    - posts/
-      - post1.md
-      - post2.md
-      - post3.md
-    - index.astro
-  - styles/
-    - global.css
-- astro.config.mjs
-- package.json
-- tsconfig.json
-</FileTree>
+## Requerimientos de las personas
 
-### `src/`
+El equipo del proyecto está compuesto por un Product Owner, un Scrum Master y tres desarrolladores. Se requiere experiencia en el desarrollo de sistemas digitales y en la integración de tecnologías como bases de datos MySQL y sistemas de escaneo con QR o código de barras. Además, la comunidad educativa, que incluye estudiantes, docentes y personal administrativo, también jugará un papel clave como usuario final del sistema.
 
-The `src/` folder is where most of your project source code lives. This includes:
+## Disponibilidad y Compromiso
 
-- [Pages](/en/core-concepts/astro-pages/)
-- [Layouts](/en/core-concepts/layouts/)
-- [Astro components](/en/core-concepts/astro-components/)
-- [UI framework components (React, etc.)](/en/core-concepts/framework-components/)
-- [Styles (CSS, Sass)](/en/guides/styling/)
-- [Markdown](/en/guides/markdown-content/)
+El equipo ha acordado trabajar en sprints de 3 semanas a lo largo de 3 meses. Los stakeholders clave, como la dirección del colegio y el personal de la biblioteca, han mostrado su compromiso con el proyecto, asegurando su participación activa.
 
-Astro processes, optimizes, and bundles your `src/` files to create the final website that is shipped to the browser. Unlike the static `public/` directory, your `src/` files are built and handled for you by Astro.
+## Criterio de selección
 
-Some files (like Astro components) are not even sent to the browser as written but are instead rendered to static HTML. Other files (like CSS) are sent to the browser but may be optimized or bundled with other CSS files for performance.
+El Scrum Master será elegido en base a su experiencia en la gestión de proyectos ágiles y su capacidad para coordinar equipos multidisciplinarios. Además, debe tener habilidades en resolución de conflictos y comunicación efectiva con stakeholders clave, como la dirección del colegio. Por consiguiente, nuestro Scrum Master será *Gerson Daniel Sahuma Jurado*, debido a que cumple con todos los requisitos planteados.
 
-:::tip
-While this guide describes some popular conventions used in the Astro community, the only directories reserved by Astro are `src/pages/` and `src/content/`. You are free to rename and reorganize any other directories in a way that works best for you.
-:::
+📸 Imagen de la [Votación para Scrum Master](https://drive.google.com/file/d/1j_ZX0Lt6LrScnxVE08SPa5M-K1H20ecY/view?usp=sharing)
 
-### `src/components`
+## Capacitación
 
-**Components** are reusable units of code for your HTML pages. These could be [Astro components](/en/core-concepts/astro-components/), or [UI framework components](/en/core-concepts/framework-components/) like React or Vue. It is common to group and organize all of your project components together in this folder.
+El equipo recibirá formación en el uso de herramientas de gestión de bibliotecas digitales, escaneo de códigos y el sistema MySQL. El personal de la biblioteca también será capacitado para operar el sistema de manera autónoma.
 
-This is a common convention in Astro projects, but it is not required. Feel free to organize your components however you like!
+## Interesados del negocio
 
-### `src/content`
+Los principales stakeholders son la dirección del colegio I.E. Héroes del Alto Cenepa 6070, el personal docente y administrativo, así como los estudiantes que utilizarán el sistema digital de la biblioteca. También se incluirán los padres y tutores que podrían verse beneficiados indirectamente.
 
-The `src/content/` directory is reserved to store [content collections](/en/guides/content-collections/) and an optional collections configuration file. No other files are allowed inside this folder.
-
-### `src/layouts`
-
-[Layouts](/en/core-concepts/layouts/) are Astro components that define the UI structure shared by one or more [pages](/en/core-concepts/astro-pages/).
-
-Just like `src/components`, this directory is a common convention but not required.
-
-### `src/pages`
-
-[Pages](/en/core-concepts/astro-pages/) are a special kind of component used to create new pages on your site. A page can be an Astro component, or a Markdown file that represents some page of content for your site.
-
-:::caution
-`src/pages` is a **required** sub-directory in your Astro project. Without it, your site will have no pages or routes!
-:::
-
-### `src/styles`
-
-It is a common convention to store your CSS or Sass files in a `src/styles` directory, but this is not required. As long as your styles live somewhere in the `src/` directory and are imported correctly, Astro will handle and optimize them.
-
-### `public/`
-
-The `public/` directory is for files and assets in your project that do not need to be processed during Astro's build process. The files in this folder will be copied into the build folder untouched, and then your site will be built.
-
-This behavior makes `public/` ideal for common assets like images and fonts, or special files such as `robots.txt` and `manifest.webmanifest`.
-
-You can place CSS and JavaScript in your `public/` directory, but be aware that those files will not be bundled or optimized in your final build.
-
-:::tip
-As a general rule, any CSS or JavaScript that you write yourself should live in your `src/` directory.
-:::
-
-### `package.json`
-
-This is a file used by JavaScript package managers to manage your dependencies. It also defines the scripts that are commonly used to run Astro (ex: `npm start`, `npm run build`).
-
-There are [two kinds of dependencies](https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file) you can specify in a `package.json`: `dependencies` and `devDependencies`. In most cases, these work the same: Astro needs all dependencies at build time, and your package manager will install both. We recommend putting all of your dependencies in `dependencies` to start, and only use `devDependencies` if you find a specific need to do so.
-
-For help creating a new `package.json` file for your project, check out the [manual setup](/en/install/manual/) instructions.
-
-### `astro.config.mjs`
-
-This file is generated in every starter template and includes configuration options for your Astro project. Here you can specify integrations to use, build options, server options, and more.
-
-See the [Configuring Astro Guide](/en/guides/configuring-astro/) for details on setting configurations.
-
-### `tsconfig.json`
-
-This file is generated in every starter template and includes TypeScript configuration options for your Astro project. Some features (like npm package imports) aren’t fully supported in the editor without a `tsconfig.json` file.
-
-See the [TypeScript Guide](/en/guides/typescript/) for details on setting configurations.
+📸 Imágenes del [Organigrama Institucional](https://drive.google.com/drive/folders/1QMYzGByAInLHtSGhlhymTTOtmQ82U1zw?usp=sharing)

@@ -38,7 +38,7 @@ Visión: *Ser una institución educativa líder, acreditada y certificada, con u
 
 Se realizó una reunión con el director Josué Sayritupac Gutierrez (*Stakeholder*), Elias Samuel Talledo Vega (*Product Owner*) y Gerson Daniel Sahuma Jurado (*Scrum Master*) con el objetivo de discutir sobre los requerimientos de la institución y las expectativas de los stakeholders para desarrollar una declaración de la visión del proyecto.
 
-📚 Imágenes de la [Reunión de la visión del proyecto](https://drive.google.com/file/d/1hFUZSAsY7aDfzCL12v_p27Z3mGbZH4Uc/view?usp=sharing)
+📸 Imágenes de la [Reunión de la visión del proyecto](https://drive.google.com/drive/folders/1QMYzGByAInLHtSGhlhymTTOtmQ82U1zw?usp=sharing)
 
 ## *5. Análisis FODA*
 
@@ -106,7 +106,13 @@ Algunas de las normativas y leyes que debemos considerar para la elaboración de
 <li>Consentimiento de Padres/Tutores: Establece un proceso claro para obtener el consentimiento informado de los padres o tutores antes de recopilar o procesar datos de estudiantes menores de edad.</li>
 <li>Ley de Gobierno Electrónico (Ley N.º 30053): Esta ley fomenta el uso de tecnologías de la información y la comunicación en el sector público y puede tener implicaciones para la digitalización en instituciones educativas. Asegúrate de que el sistema de gestión de biblioteca cumpla con los principios de accesibilidad, transparencia y eficiencia establecidos en esta ley.</li>
 
-## *9. Conclusión*
+## *9. Declaración de la visión del proyecto*
+
+La digitalización del sistema de gestión de la biblioteca del colegio I.E. Héroes del Alto Cenepa 6070 busca modernizar y agilizar los procesos de préstamos, devoluciones y acceso al catálogo. Con esta solución, la comunidad educativa podrá acceder a la información de manera eficiente y en tiempo real, mejorando la experiencia de estudiantes y personal. Este proyecto no solo optimiza la administración de recursos, sino que sienta las bases para una transformación digital que impactará positivamente en el aprendizaje y gestión académica.
+
+📚 Leer más información de la [Declaración de la Visión del Proyecto](https://drive.google.com/file/d/15KNadJ54EG1EIMHjFxcIphKOJemWNUdY/view?usp=sharing)
+
+## *10. Conclusión*
 
 El sistema de gestión de biblioteca propuesto representa una solución integral para optimizar los procesos de préstamos y devoluciones de libros en la Institución Educativa 6070 Héroes del Alto Cenepa. La digitalización del proceso reducirá errores, mejorará la experiencia de los usuarios y proporcionará un seguimiento más preciso del inventario de la biblioteca. A largo plazo, el proyecto permitirá la expansión hacia funciones más avanzadas que beneficiarán tanto a la institución como a los estudiantes.
 

@@ -22,7 +22,7 @@ export function getTagMetadata(tag: string) {
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `All articles in '${category}' category in AstroVerse`,
+    title: `Todos los artículos de '${category}' categoría en TeamScrum`,
     description: `Browse all articles under the ${category} category in AstroVerse`,
   };
 }
@@ -36,8 +36,8 @@ export const HeaderLinks = [
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
-  { href: "/posts/tailwind-typography/", title: "Tailwind" },
+  /*{ href: "/posts/why-astro/", title: "Astro" },*/
+  /*{ href: "/posts/tailwind-typography/", title: "Tailwind" },*/
   { href: "/tags/", title: "Tags" },
 ];
 
@@ -50,7 +50,7 @@ export const SocialLinks = [
     label: "Twitter",
   },
   {
-    href: "https://github.com/isooosi",
+    href: "https://github.com/Santrax211/BLOG-VIERNES.git",
     icon: "tabler:brand-github",
     label: "GitHub",
   },
