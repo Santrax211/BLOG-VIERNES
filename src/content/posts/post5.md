@@ -45,6 +45,8 @@ El sistema debe permitir la gestión eficiente de préstamos y devoluciones, red
 
 El equipo utilizará el método Planning Poker para la estimación de esfuerzo en las épicas. Este método permite a cada miembro del equipo asignar puntos de estimación de forma colaborativa y consensuada.
 
+📸 Elaboración de la [Estimación de Historias de Usuario por medio de Planning Poker](https://drive.google.com/file/d/1Rb5lx8R3BM0CPZIjA5YLH7prRYnBxqCg/view?usp=drive_linkr)
+
 ## Método de priorización: MoSCoW (Must have, Should have, Could have, Won't have)
 
 Se está utilizando el método MoSCoW, donde las funcionalidades clave y esenciales para el éxito del proyecto tienen prioridad Alta, mientras que las funcionalidades adicionales o menos críticas tienen prioridades Media o Baja.
@@ -52,6 +54,9 @@ Se está utilizando el método MoSCoW, donde las funcionalidades clave y esencia
 ## Backlog Priorizado del Producto
 
 El backlog contendrá las épicas desglosadas en historias de usuario, ordenadas por prioridad. Los primeros ítems del backlog estarán relacionados con el registro de préstamos y devoluciones y el catálogo digital.
+
+📸 Elaboración del [Backlog Priorizado del Producto](https://docs.google.com/spreadsheets/d/1nM6kGYreJMlUnf2LgV6Bp9W0OP8F46cS2ElRmb3ycsM/edit?usp=drive_link)
+
 
 ## Definición de Listo
 
@@ -71,4 +76,4 @@ El backlog contendrá las épicas desglosadas en historias de usuario, ordenadas
 
 8. Tamaño Adecuado: La historia de usuario es lo suficientemente pequeña como para completarse en un sprint. Si es demasiado grande, debe dividirse en historias más pequeñas.
 
-📸 Elaboración del [Backlog Priorizado del Producto](https://drive.google.com/file/d/1y-s9VE6TNApuaQRktmuZFhZEdUK9XJB_/view?usp=sharing)
+📸 Elaboración del [Backlog Priorizado del Producto](https://drive.google.com/file/d/1y-s9VE6TNApuaQRktmuZFhZEdUK9XJB_/view?usp=drive_link)

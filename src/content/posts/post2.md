@@ -8,7 +8,7 @@ tags:
   - Inicio
   - Scrum Master
 pubDate: 2024-09-15
-cover: https://scontent.flim32-1.fna.fbcdn.net/v/t39.30808-6/460390541_1155066779575423_6997642675730158499_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjOgaCp-uJvjYNhKsujufIqPIfNxrLGzyo8h83GssbPNerr0B50fywWHz9SYoGENUWzTLaLvclc_lmLgkNvq70&_nc_ohc=lGk5u031WsIQ7kNvgHO8gHP&_nc_ht=scontent.flim32-1.fna&_nc_gid=ADTJ-Vy0iEXsoauRssqRGeW&oh=00_AYDBbOi2qESlCwfsSZ_R4s9ZVDkuOiMqR264moxNwVDJiQ&oe=66F350AD
+cover: https://atom-academy.mx/site/wp-content/uploads/2021/08/scrum-master.jpg
 coverAlt: AstroVerse-Aliases
 author: Gerson Sahuma
 ---

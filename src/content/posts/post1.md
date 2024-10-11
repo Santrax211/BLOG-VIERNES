@@ -8,7 +8,7 @@ tags:
   - Inicio
   - Vision
 pubDate: 2024-09-14
-cover: https://scontent.flim32-1.fna.fbcdn.net/v/t39.30808-6/460737903_1155066792908755_3457455212007683308_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeES_p_GR9pRWCc7WRHFIrsdsvPSSoKuYpOy89JKgq5ik6sPyXO8OCipLi93Jnzh9ZS0gvxYqP2mzvaufVwquHoC&_nc_ohc=7UUiReEALIYQ7kNvgG2hQkL&_nc_ht=scontent.flim32-1.fna&_nc_gid=AyQRF-jK9N8fXMeXQ3hzl-q&oh=00_AYBwD8w9pe5NEZveWtZPgmMxGm1JJU7IkKsOrnDXNNA89A&oe=66F350CD
+cover: https://cdn.www.gob.pe/uploads/document/file/3839393/80%20%2810%29.jpg.jpg
 coverAlt: AstroVerse-Aliases
 author: Samuel Talledo
 ---
