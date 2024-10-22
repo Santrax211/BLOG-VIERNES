@@ -1,5 +1,5 @@
 ---
-title: Visión del Proyecto
+title: 1. Creando la visión del Proyecto
 slug: vision-del-proyecto
 description: Creación de la visión de proyecto
 category:
@@ -12,6 +12,7 @@ cover: https://cdn.www.gob.pe/uploads/document/file/3839393/80%20%2810%29.jpg.jp
 coverAlt: AstroVerse-Aliases
 author: Samuel Talledo
 ---
+# Entradas
 
 ## *1. Caso de negocio*
 
@@ -34,32 +35,34 @@ Misión: *Promover una enseñanza creativa e innovadora que forme estudiantes ca
 
 Visión: *Ser una institución educativa líder, acreditada y certificada, con una formación integral de alto nivel académico que prepare a los estudiantes de Villa El Salvador para los retos del futuro como agentes de cambio, apoyados en tecnología actualizada y personal altamente calificado.*
 
+# Herramientas 
+
 ## *4. Reunión de la visión del proyecto*
 
 Se realizó una reunión con el director Josué Sayritupac Gutierrez (*Stakeholder*), Elias Samuel Talledo Vega (*Product Owner*) y Gerson Daniel Sahuma Jurado (*Scrum Master*) con el objetivo de discutir sobre los requerimientos de la institución y las expectativas de los stakeholders para desarrollar una declaración de la visión del proyecto.
 
-📸 Imágenes de la [Reunión de la visión del proyecto](https://drive.google.com/drive/folders/1QMYzGByAInLHtSGhlhymTTOtmQ82U1zw?usp=sharing)
+📸 Imágenes de la [Reunión de la visión del proyecto](https://drive.google.com/drive/folders/1Hgfc3RKPTVg1W8a_SJEh5zuhrvyaUPUU?usp=sharing)
 
 ## *5. Análisis FODA*
 
 En el contexto de nuestro proyecto para la digitalización del sistema de gestión de la biblioteca en la Institución Educativa 6070 Héroes del Alto Cenepa, el análisis FODA proporciona una visión clara de los factores críticos que debemos considerar. Al comprender las fortalezas y debilidades de la biblioteca actual, así como las oportunidades y amenazas del entorno educativo, podemos tomar decisiones informadas que maximicen los beneficios de nuestra propuesta.
 
-*Fortalezas*
+### *Fortalezas*
 <li>Mejora en la eficiencia del proceso de gestión de la biblioteca.</li>
 <li>Mayor control y seguimiento de los libros prestados.</li>
 <li>Reducción de errores humanos en el registro manual.</li>
 <li>Acceso más rápido a la información por parte de estudiantes y profesores.</li>
 
-*Oportunidades*
+### *Oportunidades*
 <li>Posibilidad de expandir el sistema en el futuro para incluir funciones como la recomendación de libros.</li>
 <li>Mayor participación de estudiantes en el uso de la biblioteca.</li>
 <li>Alineación con la tendencia global de digitalización en el sector educativo.</li>
 
-*Debilidades*
+### *Debilidades*
 <li>Resistencia al cambio por parte del personal no familiarizado con las tecnologías.</li>
 <li>Requerimientos de capacitación para el uso del nuevo sistema.</li>
 
-*Amenazas*
+### *Amenazas*
 <li>Dependencia de la infraestructura tecnológica (internet, computadoras, escáneres).</li>
 <li>Posibles riesgos relacionados con la privacidad de los datos de los estudiantes.</li>
 
@@ -67,25 +70,27 @@ En el contexto de nuestro proyecto para la digitalización del sistema de gesti�
 
 El análisis revela que el colegio actualmente carece de un sistema digital que permita el registro automático de los préstamos y devoluciones de libros. Las tecnologías disponibles en el mercado pueden solucionar este problema al implementar un sistema que integre la digitalización de estos procesos, mejorando la eficiencia y la precisión.
 
-*6.1. Estado actual:*
+### *6.1. Estado actual:*
 <li>Proceso manual de registro de préstamos y devoluciones de libros utilizando cuadernos físicos.</li>
 <li>Dificultad para realizar un seguimiento preciso de los libros prestados y devueltos.</li>
 <li>Retrasos en la gestión de los préstamos, especialmente al final del ciclo escolar.</li>
 <li>Errores humanos frecuentes en el registro.</li>
 <li>Limitaciones para acceder a información en tiempo real sobre el estado de los libros.</li>
 
-*6.2. Estado deseado:*
+### *6.2. Estado deseado:*
 <li>Sistema digital automatizado para el registro de préstamos y devoluciones.</li>
 <li>Seguimiento en tiempo real de los libros prestados.</li>
 <li>Catálogo digital de libros accesible para estudiantes y personal.</li>
 <li>Notificaciones automáticas para recordar devoluciones pendientes.</li>
 <li>Uso de tecnología de escaneo (QR o código de barras) para agilizar el registro.</li>
 
-*6.3. Brecha identificada:*
+### *6.3. Brecha identificada:*
 <li>Tecnológica: Falta de infraestructura tecnológica (software y hardware) para digitalizar el proceso.</li>
 <li>Procesos: Procesos manuales ineficientes que generan errores y pérdida de tiempo.</li>
 <li>Capacidades del Personal: Personal no capacitado para usar herramientas tecnológicas avanzadas.</li>
 <li>Seguimiento y Control: Dificultad en realizar un seguimiento preciso de los préstamos y devoluciones en tiempo real.</li>
+
+# Salidas
 
 ## *7. Reconociendo al Product Owner*
 

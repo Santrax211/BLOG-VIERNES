@@ -1,5 +1,5 @@
 ---
-title: Equipo Scrum
+title: 3. Formando el Equipo Scrum
 slug: equipo-scrum
 description: Selección del Equipo Scrum
 category:
@@ -12,6 +12,8 @@ cover: https://media.gcflearnfree.org/content/60d5332e4180fe0f2cd4c4c9_06_25_202
 coverAlt: AstroVerse-Aliases
 author: Brian Inca
 ---
+
+# Entradas
 
 ## Product Owner
 

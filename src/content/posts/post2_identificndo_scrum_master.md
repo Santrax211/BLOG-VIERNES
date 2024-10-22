@@ -1,5 +1,5 @@
 ---
-title: Scrum Master y los interesados del negocio
+title: 2. Identificando al Scrum Master y los interesados del negocio
 slug: scrum-master-y-los-interesadps-del-negocio
 description: Identificación del Scrum Master y los interesados del negocio
 category:
@@ -12,6 +12,8 @@ cover: https://atom-academy.mx/site/wp-content/uploads/2021/08/scrum-master.jpg
 coverAlt: AstroVerse-Aliases
 author: Gerson Sahuma
 ---
+
+# Entradas
 
 Ya se ha encontrado en el post anterior quien será nuestro *Product Owner* y cual es nuestra *Declaración de la Visión del Proyecto*
 
