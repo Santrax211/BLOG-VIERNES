@@ -10,7 +10,7 @@ tags:
   - sprint
   - backlog
 pubDate: 2024-09-28
-cover: https://corporate-assets.lucid.co/chart/e13a6de5-6c81-4366-9f93-f71d06e69bf7.png?v=1707837575540
+cover: https://leanimprovements.es/wp-content/uploads/2022/06/Sprint-Backlog-scaled.jpg
 coverAlt: AstroVerse-Add an RSS feed
 author: Gerson Sahuma
 ---
