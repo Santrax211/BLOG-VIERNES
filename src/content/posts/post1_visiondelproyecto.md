@@ -3,7 +3,7 @@ title: 1. Creando la visión del Proyecto
 slug: vision-del-proyecto
 description: Creación de la visión de proyecto
 category:
-  - One
+  - Primer
 tags:
   - Inicio
   - Vision

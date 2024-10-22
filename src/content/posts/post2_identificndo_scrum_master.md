@@ -3,7 +3,7 @@ title: 2. Identificando al Scrum Master y los interesados del negocio
 slug: scrum-master-y-los-interesadps-del-negocio
 description: Identificación del Scrum Master y los interesados del negocio
 category:
-  - One
+  - Primer
 tags:
   - Inicio
   - Scrum Master

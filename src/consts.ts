@@ -2,9 +2,9 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Base Page Metadata, src/layouts/BaseLayout.astro
-export const BRAND_NAME = "TeamScrum";
-export const SITE_TITLE = "TeamScrum";
-export const SITE_DESCRIPTION = "An Astro Theme for Visual Storytelling";
+export const BRAND_NAME = "Team Scrum Ninja";
+export const SITE_TITLE = "Gestión de Biblioteca";
+export const SITE_DESCRIPTION = "Proyecto para el curso de Ingeniería de Software";
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "AstroVerse - All Tags";
@@ -22,16 +22,16 @@ export function getTagMetadata(tag: string) {
 // Category Page Metadata, src/pages/category/[category]/[page].astro
 export function getCategoryMetadata(category: string) {
   return {
-    title: `Todos los artículos de '${category}' categoría en TeamScrum`,
-    description: `Browse all articles under the ${category} category in AstroVerse`,
+    title: `Todos los artículos de '${category}' categoría en TeamScrumNinja`,
+    description: `Browse all articles under the ${category} category in TeamScrumNinja`,
   };
 }
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/Primer/1/", title: "Primer avance" },
+  { href: "/category/Segundo/1/", title: "Segundo avance" },
+  { href: "/category/Tercero/1/", title: "Tercer avance" },
 ];
 
 // Footer Links, src/components/Footer.astro
