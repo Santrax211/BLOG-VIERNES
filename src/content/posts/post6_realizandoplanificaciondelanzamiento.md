@@ -7,7 +7,7 @@ category:
 tags:
   - Inicio
   - Planificacion
-pubDate: 2024-09-18
+pubDate: 2024-09-19
 cover: https://img.freepik.com/vector-gratis/plantilla-calendario-pared-blanco-rojo-2024-programar-eventos-vector_1017-46232.jpg
 coverAlt: AstroVerse-Second post
 author: Samuel Talledo
