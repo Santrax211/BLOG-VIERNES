@@ -3,7 +3,7 @@ title: 9. Comprometiendo historias de usuario
 slug: comprometiendo-historias-usuario
 description: Comprometer las historias de usuario.
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion

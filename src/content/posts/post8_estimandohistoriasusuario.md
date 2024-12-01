@@ -3,7 +3,7 @@ title: 8. Estimando historias de usuario
 slug: estimando-historias-usuario
 description: Estimación de las historias de usuario.
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion

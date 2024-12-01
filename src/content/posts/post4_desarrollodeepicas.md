@@ -3,7 +3,7 @@ title: 4. Desarrollando Épicas
 slug: desarrollo-de-epicas
 description: El desarrollo de las épicas
 category:
-  - Primer
+  - inicio
 tags:
   - Inicio
   - Epicas

@@ -3,7 +3,7 @@ title: 5. Backlog Priorizado del Producto
 slug: backlog-priorizado-del-producto
 description: Creación del Backlog Priorizado del Producto.
 category:
-  - Primer
+  - inicio
 tags:
   - Inicio
   - Product Backlog

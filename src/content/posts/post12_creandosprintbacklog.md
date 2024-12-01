@@ -3,7 +3,7 @@ title: 12. Creando Sprint Backlog
 slug: creando-sprint-backlog
 description: Creación del Backlog Priorizado del Producto.
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion
