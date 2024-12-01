@@ -3,11 +3,11 @@ title: 4. Desarrollando Épicas
 slug: desarrollo-de-epicas
 description: El desarrollo de las épicas
 category:
-  - Primer
+  - inicio
 tags:
   - Inicio
   - Epicas
-pubDate: 2024-09-16
+pubDate: 2024-09-17
 cover: https://www.giovannycifuentes.com/wp-content/uploads/2019/05/slicing_historias_de_usuario.png
 coverAlt: AstroVerse-Aliases
 author: Alberto Mondragon

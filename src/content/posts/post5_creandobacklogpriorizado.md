@@ -3,11 +3,11 @@ title: 5. Backlog Priorizado del Producto
 slug: backlog-priorizado-del-producto
 description: Creación del Backlog Priorizado del Producto.
 category:
-  - Primer
+  - inicio
 tags:
   - Inicio
   - Product Backlog
-pubDate: 2024-09-17
+pubDate: 2024-09-18
 cover: https://rckflr.party/wp-content/uploads/2021/06/1-1.jpg
 coverAlt: AstroVerse-Add an RSS feed
 author: Jhon Urbisagastegui

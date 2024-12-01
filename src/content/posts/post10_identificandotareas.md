@@ -3,7 +3,7 @@ title: 10. Identificando tareas
 slug: identificando_tareas
 description: Identificando tareas para cada historia de usuario del primer sprint
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion

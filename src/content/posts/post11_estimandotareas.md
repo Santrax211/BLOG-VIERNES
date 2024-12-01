@@ -3,7 +3,7 @@ title: 11. Estimando tareas
 slug: estimando-tareas
 description: Creación de la estimación de tareas.
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion

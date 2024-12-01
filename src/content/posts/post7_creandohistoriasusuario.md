@@ -3,7 +3,7 @@ title: 7. Creando historias de usuario
 slug: creando-historias-usuario
 description: Creación de las historias de usuario.
 category:
-  - Primer
+  - sprint1
 tags:
   - planificacion
   - estimacion
