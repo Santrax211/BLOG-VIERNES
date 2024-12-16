@@ -1,30 +1,19 @@
 ---
-title: 7. Creando historias de usuario
-slug: creando-historias-usuario
-description: Creación de las historias de usuario.
+title: 6. Realizando la planificación del lanzamiento
+slug: realizando-planificacion-lanzamiento-2
+description: Planificación del lanzamiento del proyecto.
 category:
-  - sprint1
+  - sprint2
 tags:
-  - planificacion
-  - estimacion
-  - historia
-  - usuario
-pubDate: 2024-09-23
-cover: https://static1.squarespace.com/static/5a5977a7f43b55eff1588911/t/5ea8aff9ec78e0341d73c410/1588113404519/Social+Historias+de+usuario.png?format=1500w
-coverAlt: AstroVerse-Add an RSS feed
-author: Gerson Sahuma
+  - Inicio
+  - Planificacion
+pubDate: 2024-09-19
+cover: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl5gMaktqTvJpuD0K1ddgH2nipFRqap6g4FxJgDu9swbuaAXFhrZquZIsyTasDaFPXO_Xo7Mltej-dzJmLJjk0LJfZG3BeHfxZpWf1-Ml6UCcDCO_LSvC-qIKgksV8V1kv-8c-cSqP8Us8/s1600/vnvnvn.jpg
+coverAlt: AstroVerse-Second post
+author: Samuel Talledo
 ---
 
 # Entradas
-
-## Equipo principal de Scrum
-
-En base a los procesos previos realizados, el equipo Scrum queda asignado de la siguiente manera:
-<li>Product Owner: Samuel Talledo</li>
-<li>Scrum Master: Gerson Sahuma</li>
-<li>Developer 1: Brian Inca</li>
-<li>Developer 2: Jhon Urbisagastegui</li>
-<li>Developer 3: Alberto Mondragon</li>
 
 ## Backlog Priorizado del Producto
 
@@ -50,15 +39,23 @@ El backlog contendrá las épicas desglosadas en historias de usuario, ordenadas
 
 8. Tamaño Adecuado: La historia de usuario es lo suficientemente pequeña como para completarse en un sprint. Si es demasiado grande, debe dividirse en historias más pequeñas.
 
+## Equipo principal de Scrum
+
+El equipo está compuesto por un Product Owner (*Elías Samuel Talledo Vega*), un Scrum Master (*Gerson Daniel Sahuma Jurado*) y tres developers:
+<li>Developer 1: Brian Inca</li>
+<li>Developer 2: Jhon Urbisagastegui</li>
+<li>Developer 3: Alberto Mondragon</li> 
+
 # Herramientas
 
-Se realizaron reuniones virtuales, mediante discord y zoom para determinar las historias de usuario.
-El Scrum Master fue el encargadod de interpretar los requerimientos dados por el Product Owner para que el equipo developer pueda comprender la lógica del proyecto y los requisitos necesarios a usar.
+## Sesión de planificación de lanzamiento
 
-📸 Imagen de <a href="https://drive.google.com/file/d/1gI1tGc1_WSGvLPyFvNxbNZn_A2AqGjO9/view?usp=sharing" target="_blank">Reunión vía Discord</a>
+Se realizó sesiones de planificación con todo el equipo Scrum para determinar correctamente el lanzamiento de la página web a implementar. Cada uno asumiendo su rol respectivo y dando claridad y precisión sobre el tema en cuestión.
+
+📸 Imagen de <a href="https://drive.google.com/file/d/1gI1tGc1_WSGvLPyFvNxbNZn_A2AqGjO9/view?usp=sharing" target="_blank">Sesión para planificación del lanzamiento</a>
 
 # Salidas
 
-Después de las reuniones virtuales se realizó un documento donde se puede observar el resultado final de este proceso.
+Se definió que cada sprint tendrá una duración de 3 semanas. Además, se organizo un cronograma sobre el desarrollo del primer sprint.
 
-📂 Elaboración de la <a href="https://drive.google.com/file/d/17Q-l6-M55H6jM_oOMEp9LIDiv38livf_/view?usp=sharing" target="_blank">Historias de usuario</a>
+📚 Leer más información de la <a href="https://drive.google.com/file/d/1bPAO4vO1Vw9oBhjPG_e75jFzcXVCzX-z/view?usp=sharing" target="_blank">Cronograma del primer sprint</a>
