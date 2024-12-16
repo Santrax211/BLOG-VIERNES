@@ -8,9 +8,9 @@ tags:
   - diseño
   - simple
 pubDate: 2024-09-19
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfNgX-fBZpj0g3aEa5GuWn_ECs9tNWivKEQ&s
 coverAlt: AstroVerse-Aliases
-author: Jhon Urbisagastegui
+author: Samuel Talledo
 ---
 
 El diseño simple es un principio fundamental en la metodología Extreme Programming (XP). Su objetivo principal es crear soluciones lo suficientemente simples como para resolver los problemas actuales, evitando la complejidad innecesaria y facilitando la comprensión del sistema.

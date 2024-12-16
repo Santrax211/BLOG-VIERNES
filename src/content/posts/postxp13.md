@@ -8,8 +8,9 @@ tags:
   - incremento
   - software
 pubDate: 2024-09-26
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://mwebs.com.uy/imagenes/noticias/qu%C3%A9-es-el-desarrollo-incremental-184-chica.jpg
 coverAlt: AstroVerse-Aliases
-author: Jhon Urbisagastegui
+author: Alberto Mondragon
 ---
 
+Se entrega un software funcional e incrementalmente mejorado al cliente, cada vez que se completa una nueva iteración.

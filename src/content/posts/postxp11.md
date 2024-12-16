@@ -8,8 +8,10 @@ tags:
   - prueba
   - unitaria
 pubDate: 2024-09-24
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://bambu-mobile.com/wp-content/uploads/2022/09/pruebas-unitarias-software-manuelas-automaticas-codigo-programacion-desarrollo-web-app-innovacion.png
 coverAlt: AstroVerse-Aliases
-author: Jhon Urbisagastegui
+author: Gerson Sahuma
 ---
+
+Los desarrolladores escriben pruebas automáticas para cada componente del código, asegurando que cada unidad funcione correctamente antes de integrarse.
 

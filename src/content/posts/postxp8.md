@@ -7,9 +7,9 @@ category:
 tags:
   - prototipos
 pubDate: 2024-09-21
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://www.sinnaps.com/wp-content/uploads/2020/05/metodologia-xp-min.jpg
 coverAlt: AstroVerse-Aliases
-author: Jhon Urbisagastegui
+author: Alberto Mondragon
 ---
 
 Un prototipo es una versión preliminar del software creada rápidamente para visualizar y validar los requisitos del usuario. Sirve como herramienta para obtener retroalimentación temprana, asegurando que el producto final cumpla con las expectativas antes de invertir más tiempo en el desarrollo completo. Los prototipos en XP suelen ser simples y enfocados en funcionalidades clave.

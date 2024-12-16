@@ -8,8 +8,10 @@ tags:
   - programación
   - parejas
 pubDate: 2024-09-22
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://modulopoo.wordpress.com/wp-content/uploads/2013/11/programacion.jpg
 coverAlt: AstroVerse-Aliases
 author: Jhon Urbisagastegui
 ---
+
+Se basa en el principio de que dos desarrolladores trabajan juntos en una misma estación de trabajo, compartiendo responsabilidades y mejorando la calidad del código.
 

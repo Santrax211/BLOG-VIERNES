@@ -9,8 +9,9 @@ tags:
   - calculada
   - proyecto
 pubDate: 2024-09-27
-cover: https://conceptodefinicion.de/wp-content/uploads/2024/03/Plan-de-Iteracion.jpg
+cover: https://profile.es/wp-content/media/El-concepto-de-Velocity-en-Agile.jpg
 coverAlt: AstroVerse-Aliases
 author: Jhon Urbisagastegui
 ---
 
+Se mide la cantidad de trabajo completado en cada iteración para estimar la rapidez con que se puede entregar el proyecto, ayudando a planificar y ajustar plazos futuros.

@@ -7,14 +7,14 @@ export const SITE_TITLE = "Gestión de Biblioteca";
 export const SITE_DESCRIPTION = "Proyecto para el curso de Ingeniería de Software";
 
 // Tags Page Metadata, src/pages/tags/index.astro
-export const Tags_TITLE = "AstroVerse - All Tags";
-export const Tags_DESCRIPTION = "AstroVerse - All tags and the count of articles related to each tag";
+export const Tags_TITLE = "Team Scrum Ninja - Todas las etiquetas";
+export const Tags_DESCRIPTION = "Team Scrum Ninja - todas las etiquetas y el recuento de artículos relacionados con cada etiqueta";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
   return {
-    title: `All articles on '${tag}' tag in AstroVerse`,
-    description: `Explore articles about ${tag} for different perspectives and in-depth analysis.`,
+    title: `Todos los artículos sobre la etiqueta '${tag}' en Team Scrum Ninja`,
+    description: `Explore artículos sobre ${tag} para conocer diferentes perspectivas y análisis en profundidad.`,
   };
 }
 
@@ -22,7 +22,7 @@ export function getTagMetadata(tag: string) {
 export function getCategoryMetadata(category: string) {
   return {
     title: `Todos los artículos de '${category}' categoría en TeamScrumNinja`,
-    description: `Browse all articles under the ${category} category in TeamScrumNinja`,
+    description: `Explore todos los artículos de la categoría ${category} en TeamScrumNinja`,
   };
 }
 
