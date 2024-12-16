@@ -3,7 +3,7 @@ title: 3. Formando el Equipo Scrum
 slug: equipo-scrum
 description: Selección del Equipo Scrum
 category:
-  - inicio
+  - sprint1
 tags:
   - Inicio
   - Equipo Scrum

@@ -3,7 +3,7 @@ title: 6. Realizando la planificación del lanzamiento
 slug: realizando-planificacion-lanzamiento
 description: Planificación del lanzamiento del proyecto.
 category:
-  - inicio
+  - sprint1
 tags:
   - Inicio
   - Planificacion

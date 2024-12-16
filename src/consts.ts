@@ -8,8 +8,7 @@ export const SITE_DESCRIPTION = "Proyecto para el curso de Ingeniería de Softwa
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "AstroVerse - All Tags";
-export const Tags_DESCRIPTION =
-  "AstroVerse - All tags and the count of articles related to each tag";
+export const Tags_DESCRIPTION = "AstroVerse - All tags and the count of articles related to each tag";
 
 // Tags Page Metadata, src/pages/tags/[tag]/[page].astro
 export function getTagMetadata(tag: string) {
@@ -29,9 +28,10 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/inicio/1/", title: "Inicio del proyecto" },
+  /*{ href: "/category/inicio/1/", title: "Inicio del proyecto" },*/
   { href: "/category/sprint1/1/", title: "Sprint 1" },
   { href: "/category/sprint2/1/", title: "Sprint 2" },
+  { href: "/category/xp/1/", title: "XP" },
 ];
 
 // Footer Links, src/components/Footer.astro
