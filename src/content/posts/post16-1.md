@@ -9,7 +9,7 @@ tags:
   - validar
   - sprint
 pubDate: 2024-10-02
-cover: https://media.licdn.com/dms/image/v2/D4D12AQEAqoG3sWtpAA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707252734363?e=2147483647&v=beta&t=9t9qo78szjsosVGsOKf2j1HGNrJu1Xbh7AEXZ-w7LDE
+cover: https://proyectosagiles.org/wp-content/uploads/2018/10/sprintreviewmeeting.png
 coverAlt: AstroVerse-Add an RSS feed
 author: Gerson Sahuma
 ---
