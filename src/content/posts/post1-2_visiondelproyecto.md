@@ -1,9 +1,9 @@
 ---
 title: 1. Creando la visión del Proyecto
-slug: vision-del-proyecto
+slug: vision-del-proyecto-2
 description: Creación de la visión de proyecto
 category:
-  - sprint1
+  - sprint2
 tags:
   - Inicio
   - Vision
